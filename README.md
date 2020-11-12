@@ -1,0 +1,1 @@
+The file run-analysis.R contains the peer assignment answers
